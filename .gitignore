@@ -1,0 +1,12 @@
+
+Servers/
+
+RemoteSystemsTempFiles/
+
+\.metadata/
+
+weather/\.project
+
+weather/target/
+
+weather/\.settings/
