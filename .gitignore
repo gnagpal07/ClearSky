@@ -10,3 +10,7 @@ weather/\.project
 weather/target/
 
 weather/\.settings/
+
+
+
+weather/\.classpath/
