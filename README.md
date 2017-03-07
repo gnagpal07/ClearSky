@@ -1,6 +1,8 @@
 # ClearSky
 Egen Weather Project
 
+Swagger URL : http://localhost:8080/weather/api/swagger-ui.html#/
+
 Rest Module###
 End Points for Rest Module
 
